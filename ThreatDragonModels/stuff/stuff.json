@@ -9,7 +9,13 @@
         "name": "bob"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "things",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "someone"
   }
 }
