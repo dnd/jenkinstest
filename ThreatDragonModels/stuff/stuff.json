@@ -1,0 +1,15 @@
+{
+  "summary": {
+    "title": "stuff",
+    "owner": "me"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "bob"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "someone"
+  }
+}
